@@ -220,4 +220,5 @@ namespace ThiCuoiKyCNPM
         //}
 
     }
-}
+} //hello
+//tạm biệt các bạn môn này đ hiểu kiểu gì
